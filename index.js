@@ -1,2 +1,1 @@
-console.log("Just do it.");
-console.log("HALP")
+console.console.error("HALP");
