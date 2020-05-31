@@ -1,2 +1,2 @@
 console.log("Just do it.");
-console.log("Do it.")
+console.log("HALP")
