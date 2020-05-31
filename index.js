@@ -1,1 +1,1 @@
-console.log("I would be a logger.")
+console.log("Just do it.");
